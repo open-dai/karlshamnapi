@@ -1,0 +1,16 @@
+{
+  "name": "opendai-karlshamnapi",
+  "version": "0.0.1",
+  "description": "An API for Karlshamns POIs",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexander Hansson",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "express": "~3.4.8",
+    "mongodb": "~1.3.23",
+    "mongojs": "~0.10.0"
+  }
+}
